@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geekyness-tech-task-/static/css/main.71395cd3.css",
+    "main.js": "/geekyness-tech-task-/static/js/main.0bdb13b1.js",
+    "index.html": "/geekyness-tech-task-/index.html",
+    "main.71395cd3.css.map": "/geekyness-tech-task-/static/css/main.71395cd3.css.map",
+    "main.0bdb13b1.js.map": "/geekyness-tech-task-/static/js/main.0bdb13b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71395cd3.css",
+    "static/js/main.0bdb13b1.js"
+  ]
+}
